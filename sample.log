@@ -1,0 +1,5 @@
+2025-01-10 09:15:22 INFO Application started
+2025-01-10 09:16:10 ERROR Database connection failed
+2025-01-10 09:17:05 WARN Low memory
+2025-01-10 09:18:45 ERROR Disk read error
+2025-01-10 09:19:30 INFO Application stopped
